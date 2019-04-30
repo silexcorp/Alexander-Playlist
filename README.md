@@ -3,8 +3,9 @@
 A new Flutter application. http://alexandermateo.com/
 
 ## Config Firebase
-![alt text](https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/firebase-auth.png)
 ![alt text](https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/firebase-db.png)
+
+Configure firebase to your project.
 
 ## Screenshot
 <img src="https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/Screenshot_20190430-090904.jpg" width="250"> | <img src="https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/Screenshot_20190430-090922.jpg" width="250"> | <img src="https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/Screenshot_20190430-090925.jpg" width="250"> | <img src="https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/Screenshot_20190430-090928.jpg" width="250"> | <img src="https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/Screenshot_20190430-084044.jpg" width="250"> | <img src="https://github.com/silexcorp/Alexander-Playlist/blob/master/screenshots/Screenshot_20190430-084100.jpg" width="250">
